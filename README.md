@@ -99,7 +99,7 @@ The model achieved an accuracy of 0.9937107, a F1 score of 0.992181, and a ROC A
 The model can be improved by using a different model architecture, or test different hyperparameters, etc.
 
 ### Plots of the metrics
-![alt text]()
+![alt text](https://raw.githubusercontent.com/H3NR1QU3M4LT4/NLP-Disaster-Tweets/main/reports/figures/plots_metrics.png)
 
 ### Tables of the metrics
-![alt text]()
+![alt text](https://raw.githubusercontent.com/H3NR1QU3M4LT4/NLP-Disaster-Tweets/main/reports/figures/plots_tables.png)
